@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000'; // Adjust if your Flask backend is on a different port
+const API_BASE_URL = 'http://152.67.15.78';
 
 export const predictRoute = async (source, destination, timeOfDay) => {
   try {
