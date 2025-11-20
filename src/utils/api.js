@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://152.67.15.78';
+const API_BASE_URL = 'https://152.67.15.78';
 
 export const predictRoute = async (source, destination, timeOfDay) => {
   try {
